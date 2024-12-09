@@ -5,3 +5,4 @@ www.googletagmanager.com
 www.googletagservices.com
 server.eu.action1.com
 facebook.com
+graph.facebook.com
