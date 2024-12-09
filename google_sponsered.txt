@@ -6,3 +6,6 @@ www.googletagservices.com
 server.eu.action1.com
 facebook.com
 graph.facebook.com
+b-graph.facebook.com
+graph-fallback.instagram.com
+traffic-nts-ip-assoc.xz.fbcdn.net
