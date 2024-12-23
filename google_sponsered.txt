@@ -11,3 +11,4 @@ graph-fallback.instagram.com
 traffic-nts-ip-assoc.xz.fbcdn.net
 links.strava.com
 dit.whatsapp.net
+youtu.be
