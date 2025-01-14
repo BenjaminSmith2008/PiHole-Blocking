@@ -14,3 +14,5 @@ dit.whatsapp.net
 youtu.be
 lnkd.in
 trib.al
+parsely.com
+id.tinypass.com
