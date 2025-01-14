@@ -16,3 +16,4 @@ lnkd.in
 trib.al
 parsely.com
 id.tinypass.com
+eu.spgo.io
