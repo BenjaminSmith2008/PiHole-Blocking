@@ -17,3 +17,4 @@ trib.al
 parsely.com
 id.tinypass.com
 eu.spgo.io
+l.facebook.com
